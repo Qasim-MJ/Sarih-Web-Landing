@@ -7,7 +7,8 @@ var port = process.env.PORT || 8080 ;
 
 
 app.use("/css",  express.static(__dirname + '/css'));
-app.use("/javascript", express.static(__dirname + '/javascript'));
+app.use("/less",  express.static(__dirname + '/less'));
+app.use("/js", express.static(__dirname + '/js'));
 app.use("/images",  express.static(__dirname + '/images'));
 
 
