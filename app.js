@@ -13,7 +13,7 @@ app.use("/images",  express.static(__dirname + '/images'));
 
 
 app.get('/',function(req, res) {
-	res.sendFile(__dirname + '/home.html');
+	res.sendFile(__dirname + '/applandingpage.html');
 
 });
 
