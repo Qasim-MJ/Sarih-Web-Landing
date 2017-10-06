@@ -50,7 +50,7 @@ select {
 .intro {
   margin: 0 auto ;
   max-width: 300px;
-    margin-top: 70px; 
+    margin-top: 70px;
     font-size: 2.5em ;
     padding-bottom: 20px;
 
@@ -219,7 +219,7 @@ border-color: #FF8C8C;
 }
 
 .likes {
-  color: #D3D3D3 ; 
+  color: #D3D3D3 ;
   margin-top: 20px !important ;
   margin-bottom: -10px !important  ;
 }
@@ -230,4 +230,3 @@ border-color: #FF8C8C;
 }
 
 }
-
